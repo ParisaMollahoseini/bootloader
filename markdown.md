@@ -72,3 +72,10 @@ qemu-system-i386 -fda myfirst.flp
 ```
 
 *By this code we can boot our new OS by the QEMU PC emulator*
+
+
+## Reference
+
+[site of boot](http://mikeos.sourceforge.net/write-your-own-os.html).
+
+[my github](https://github.com/parisa1377/bootloader).
